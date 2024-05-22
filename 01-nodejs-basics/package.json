@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "Basics things about nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkose7/Node.practices.git"
+  },
+  "keywords": [
+    "course",
+    "node",
+    "nodejs",
+    "js",
+    "fs"
+  ],
+  "author": "Jose Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jkose7/Node.practices/issues"
+  },
+  "homepage": "https://github.com/Jkose7/Node.practices#readme",
+  "dependencies": {
+    "picocolors": "1.0.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  }
+}
