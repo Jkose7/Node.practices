@@ -4,7 +4,6 @@ const { findAvailablePort } = require("./05-free-port");
 
 // El servidor puede recibir un peticion
 // devolver una respuesta
-console.log(process.env);
 
 const server = http.createServer((req, res) => {
   console.log("request received");
