@@ -13,7 +13,7 @@ process.on('exit', () => {
 })
 
 //current workin directory 
-console.log(process.cmd())
+//console.log(process.cmd())
 
 //platform
 console.log(process.env.LET)
